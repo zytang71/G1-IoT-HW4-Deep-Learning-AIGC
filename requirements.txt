@@ -1,0 +1,4 @@
+aisuite
+streamlit
+openai
+google-generativeai
